@@ -1,6 +1,6 @@
 ---
 title: HTTP Messages
-slug: Web/HTTP/Messages
+slug: Web/HTTP/HTTP2/Messages
 tags:
   - Guide
   - HTTP
