@@ -62,26 +62,26 @@
     lodash.isundefined "^3.0.1"
     lodash.uniq "^4.5.0"
 
-"@mdn/browser-compat-data@^4.1.20":
-  version "4.1.20"
-  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-4.1.20.tgz#771c2a987c8d2cb7f454118d34cda5922b97ec1c"
-  integrity sha512-9VOi5TU0xE/XhShmGQpNAa3PduouSxDrEK0p7mVZe4ndhH8xV87fYb3vyYyL8i4wyRT7fHG8vyecVTRMLy04Mg==
+"@mdn/browser-compat-data@^4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-4.2.1.tgz#1fead437f3957ceebe2e8c3f46beccdb9bc575b8"
+  integrity sha512-EWUguj2kd7ldmrF9F+vI5hUOralPd+sdsUnYbRy33vZTuZkduC1shE9TtEMEjAQwyfyMb4ole5KtjF8MsnQOlA==
 
-"@mdn/yari@0.15.39":
-  version "0.15.39"
-  resolved "https://registry.yarnpkg.com/@mdn/yari/-/yari-0.15.39.tgz#b124d33a8bd69592f55864a06b58c8ffe1652962"
-  integrity sha512-R1pvZadnhW41WX2EYHeL4MUQNJn9nZkEan+UqY5/sXN6HizZGPFTaj3SwkCkk4kO7a0wuTh04j1QiBsFRlmwzA==
+"@mdn/yari@0.16.1":
+  version "0.16.1"
+  resolved "https://registry.yarnpkg.com/@mdn/yari/-/yari-0.16.1.tgz#58d79a4beaf4ee2c040bdf2e4576ed0ba92ab8bb"
+  integrity sha512-TgBYWRxedJjrfljOunNqNSZXRA/ruD+PEJMaXtAfn91BiiC/As2t7qmLWDbVtR6ireB9hqGeFEDvAtk8IRUkjg==
   dependencies:
     "@babel/helper-builder-react-jsx" "^7.16.7"
     "@caporal/core" "^2.0.2"
     "@fast-csv/parse" "^4.3.6"
-    "@mdn/browser-compat-data" "^4.1.20"
+    "@mdn/browser-compat-data" "^4.2.1"
     "@use-it/interval" "^1.0.0"
     accept-language-parser "^1.5.0"
-    browser-specs "^3.10.0"
+    browser-specs "^3.11.0"
     chalk "^4.1.2"
     cheerio "^1.0.0-rc.10"
-    cli-progress "^3.11.0"
+    cli-progress "^3.11.1"
     compression "^1.7.4"
     cookie "^0.5.0"
     cookie-parser "^1.4.6"
@@ -599,10 +599,10 @@ braces@^3.0.1:
   dependencies:
     fill-range "^7.0.1"
 
-browser-specs@^3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/browser-specs/-/browser-specs-3.10.0.tgz#f248e41f5aa22ace7b093362e5a47f88762b079c"
-  integrity sha512-YKSowYjucocAd4kioYA5AOoYtSOVkmVM7wkGoWq85ZfiiJE5LRFobbYFmIijnav7gl2UQ2hwhz+EWBe7AUUWuw==
+browser-specs@^3.11.0:
+  version "3.11.1"
+  resolved "https://registry.yarnpkg.com/browser-specs/-/browser-specs-3.11.1.tgz#8e509afacf4b781091f93edf8684146013d1ffcb"
+  integrity sha512-oFyjjlI3v9pPXZChkFn6vDCf3iQFsb1Rw2Ct54uBKPT8lvGaXvUI3U7WFCNZfRapfg0na1CIJNJxQgukNY2Uxw==
 
 buffer-alloc-unsafe@^1.1.0:
   version "1.1.0"
@@ -829,10 +829,10 @@ cli-cursor@^3.1.0:
   dependencies:
     restore-cursor "^3.1.0"
 
-cli-progress@^3.11.0:
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/cli-progress/-/cli-progress-3.11.0.tgz#03651defd06182a5396ddc2a41da17c2f257ecdf"
-  integrity sha512-ug+V4/Qy3+0jX9XkWPV/AwHD98RxKXqDpL37vJBOxQhD90qQ3rDqDKoFpef9se91iTUuOXKlyg2HUyHBo5lHsQ==
+cli-progress@^3.11.1:
+  version "3.11.1"
+  resolved "https://registry.yarnpkg.com/cli-progress/-/cli-progress-3.11.1.tgz#02afb11be9a123f2a302931beb087eafe3a0d971"
+  integrity sha512-TTMA2LHrYaZeNMcgZGO10oYqj9hvd03pltNtVbu4ddeyDTHlYV7gWxsFiuvaQlgwMBFCv1TukcjiODWFlb16tQ==
   dependencies:
     string-width "^4.2.3"
 
