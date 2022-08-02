@@ -13,6 +13,7 @@ tags:
   - MediaDevices
   - getusermedia
   - webcam
+page-type: guide
 ---
 {{DefaultAPISidebar("Media Capture and Streams")}}
 
